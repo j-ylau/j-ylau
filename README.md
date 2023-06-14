@@ -1,13 +1,13 @@
-## Readme Script 
 
 
-# Hi there 👋 Abhishek here!
+
+# Hi there 👋 Justin here!
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/28517335/102723167-55adaf00-432c-11eb-80cc-45f32ffd8e3a.jpeg" height="400px" width="1000px">
 </p>
 <p>
-A budding entrepreneur with love for physics and passion for transformation of India. To know more about me, visit: <a href="https://sargupta.in/">sargupta</a>.
+A budding student software engineer with love for full-stack development, data science, and machine learning. To know more about me, visit <a href="[https://sargupta.in](https://www.linkedin.com/in/lau-justin/)/">my Linkedin!</a>.
 </p>
 
 - 🌱 I’m currently learning Data Structures and Algorithms 
