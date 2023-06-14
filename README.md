@@ -21,10 +21,6 @@ A budding student software engineer with love for full-stack development, data s
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sargupta&layout=compact)
 
 
-### Latest Medium Articles
-
-<a target="_blank" href="https://medium.com/@jlau61/pm-case-study-redesigning-cal-polys-kennedy-library-website-c13ca6cc339d"><img src=["https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/0](https://medium.com/@jlau61/pm-case-study-redesigning-cal-polys-kennedy-library-website-c13ca6cc339d)" alt="Recent Article 0"></a>
-
 ### Main Programming Language :desktop_computer: 
 - Python <img src="https://user-images.githubusercontent.com/28517335/102723536-9f979480-432e-11eb-8552-fdb39e939362.png" width="40px">
 
