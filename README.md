@@ -10,11 +10,11 @@
 A budding student software engineer with love for full-stack development, data science, and machine learning. To know more about me, visit <a href="https://www.linkedin.com/in/lau-justin/">my Linkedin!</a>.
 </p>
 
-- 🌱 I’m currently learning Data Structures and Algorithms 
-- 🔭 I’m currently working on Deep Learning Model Deployment on Azure
+- 🌱 I’m currently learning Programming Languages 
+- 🔭 I’m currently working on data science projects, as well as 3D modeling for my portfolio 
 
-- 🤝 I’m looking to collaborate on: a) Space-Tech Projects and b) Localisation of products using NLP
-- 📫 How to reach me: <a href="https://twitter.com/sargupta93">@sargupta93</a>
+- 🤝 I’m looking to collaborate on any big data projects and large language models 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/lau-justin/">@lau-justin</a>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sargupta&theme=highcontrast&show_icons=true&count_private=true)
@@ -23,16 +23,14 @@ A budding student software engineer with love for full-stack development, data s
 
 ### Latest Medium Articles
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/0" alt="Recent Article 0"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/1" alt="Recent Article 1"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/2" alt="Recent Article 2"></a>
+<a target="_blank" href="https://medium.com/@jlau61/pm-case-study-redesigning-cal-polys-kennedy-library-website-c13ca6cc339d"><img src=["https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/0](https://medium.com/@jlau61/pm-case-study-redesigning-cal-polys-kennedy-library-website-c13ca6cc339d)" alt="Recent Article 0"></a>
 
 ### Main Programming Language :desktop_computer: 
 - Python <img src="https://user-images.githubusercontent.com/28517335/102723536-9f979480-432e-11eb-8552-fdb39e939362.png" width="40px">
 
 
 ### Interests 👨‍💻
-- Physics
+- Full-stack
 - Engineering
 - Deep Learning
 - NLP
