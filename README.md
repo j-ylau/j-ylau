@@ -17,8 +17,8 @@ A budding student software engineer with love for full-stack development, data s
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/lau-justin/">@lau-justin</a>
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sargupta&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sargupta&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=j-ylau&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=j-ylau&layout=compact)
 
 
 ### Main Programming Language :desktop_computer: 
@@ -56,15 +56,4 @@ A budding student software engineer with love for full-stack development, data s
 </p>
 
 
-### Platforms 👨‍
-<p>
-<a href="https://www.linkedin.com/in/sargupta/">
-<img src="https://img.shields.io/badge/LinkedIn-sargupta-blue">
-<a href="https://www.kaggle.com/sargupta">
-<img src="https://img.shields.io/badge/Kaggle-sargupta-blue">
-<a href="https://medium.com/@sargupta93">
-<img src="https://img.shields.io/badge/Medium-sargupta-blue">
-<a href="https://stackoverflow.com/users/9658895/sargupta?tab=profile">
-<img src="https://img.shields.io/badge/Stack%20Overflow-sargupta-blue">
-</a>
-</p>
+
