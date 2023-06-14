@@ -22,7 +22,12 @@ A budding student software engineer with love for full-stack development, data s
 
 
 ### Main Programming Language :desktop_computer: 
-- Python <img src="https://user-images.githubusercontent.com/28517335/102723536-9f979480-432e-11eb-8552-fdb39e939362.png" width="40px">
+- Python
+- JavaScript & TypeScript
+- HTML/CSS
+- Java
+- C
+  
 
 
 ### Interests 👨‍💻
