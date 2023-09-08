@@ -4,7 +4,7 @@
 # Hi there 👋 Justin here!
 
 <p>
-A budding student software engineer with love for full-stack development, data science, and machine learning. To know more about me, visit <a href="https://www.linkedin.com/in/lau-justin/">my Linkedin</a> or  <a href="https://jlau.surge.sh/">my perosnal website!</a>.
+A budding student software engineer with love for full-stack development, data science, and machine learning. To know more about me, visit <a href="https://www.linkedin.com/in/lau-justin/">my Linkedin</a> or  <a href="https://jlau.surge.sh/">my personal website!</a>.
 </p>
 
 - 🌱 I’m currently learning Programming Languages 
