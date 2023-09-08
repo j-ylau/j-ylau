@@ -3,9 +3,6 @@
 
 # Hi there 👋 Justin here!
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/28517335/102723167-55adaf00-432c-11eb-80cc-45f32ffd8e3a.jpeg" height="400px" width="1000px">
-</p>
 <p>
 A budding student software engineer with love for full-stack development, data science, and machine learning. To know more about me, visit <a href="https://www.linkedin.com/in/lau-justin/">my Linkedin!</a>.
 </p>
