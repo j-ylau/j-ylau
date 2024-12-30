@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Justin Lau</h1>
-<h3 align="center">Full-Stack AI Software Engineer from Los Angeles, CA, graduating from Cal Poly SLO, Spring 2025</h3>
+<h3 align="center">Software Engineer @ Bayer</h3>
 
-- 🌱 I’m currently learning **AI/LLMs**
+- 🌱 I’m currently learning: **AI/LLMs**
 
-- 👨‍💻 All of my projects are available at [https://jlau.surge.sh/](https://jlau.surge.sh/)
+- 👨‍💻 All of my projects are available at: [https://jlau.surge.sh/](https://jlau.surge.sh/)
 
-- 📫 How to reach me **https://jlau.surge.sh/**
+- 📫 How to reach me: **https://www.linkedin.com/in/lau-justin/**
 
-- ⚡ Fun fact **I play volleyball**
+- ⚡ Fun fact: **I play volleyball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
